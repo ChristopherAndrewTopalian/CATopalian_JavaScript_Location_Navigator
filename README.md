@@ -1,6 +1,6 @@
 # CATopalian JavaScript Location Navigator
 
-JavaScript app that gets location coordinates of latitude and longitude and converts them to a physical address.
+JavaScript app that gets location coordinates of latitude and longitude and converts them to a physical address. This app works on windows, linux, mac, android and ios.
 
 ![001](src/media/textures/screenshots/001.PNG)  
 
