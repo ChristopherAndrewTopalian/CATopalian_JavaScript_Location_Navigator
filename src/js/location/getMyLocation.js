@@ -7,7 +7,8 @@ function getMyLocation()
     {
         let options =
         {
-            enableHighAccuracy: true, timeout: 5000
+            enableHighAccuracy: true, timeout: 15000,
+            maximumAge: 0
         };
 
         navigator.geolocation.getCurrentPosition(function(position)
