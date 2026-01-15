@@ -2,6 +2,10 @@
 
 function makeInterface()
 {
+    ba(makeTitleOfApp());
+
+    //-//
+
     let theTitle = ce('div');
     theTitle.textContent = 'LOCATION NAVIGATOR';
     theTitle.style.fontWeight = 'bold';
